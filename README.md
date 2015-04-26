@@ -1,7 +1,7 @@
 # erm-server
 
 ## Introduction
-Express-Restify-Mongoose server (erm-server) is a node.js based approach to create a RESTful API server without a short period of time, it utilizes the library of express-restify-mongoose (https://github.com/florianholzapfel/express-restify-mongoose).
+Express-Restify-Mongoose server (erm-server) is a node.js based approach to create a RESTful API server with a short period of time, it utilizes the library of express-restify-mongoose (https://github.com/florianholzapfel/express-restify-mongoose).
 
 ## Build
 
