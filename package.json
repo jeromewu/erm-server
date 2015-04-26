@@ -1,0 +1,13 @@
+{
+  "name": "erm-server",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "mongoose": "*",
+    "express-restify-mongoose": "*",
+    "deasync": "*"
+  }
+}

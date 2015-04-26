@@ -1,0 +1,4 @@
+{
+  "customer": {"type": "ObjectId", "ref": "customer"},
+  "amount": {"type": "Number", "required": "true"}
+}
