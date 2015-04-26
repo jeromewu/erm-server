@@ -13,7 +13,7 @@ You will need to install mongodb as well
 ## Execution
 
 ```
-node app.js
+npm start
 ```
 
 ## Development
